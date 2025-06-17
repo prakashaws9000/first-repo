@@ -47,4 +47,5 @@ find find a files
 grep this cammand is search for the pattern in a file
 diff diff b/w 2 files
 sed search and replace
+git add add the file
 
