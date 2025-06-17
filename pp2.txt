@@ -1,0 +1,51 @@
+touch we can create files or directories
+ll long listing
+ls list of commands
+pwd prasent working dir
+cd chnage dir
+/ super user
+sudo su switch the root dir
+rm -rf remove the files or delete
+mv move files one place to another location
+mkdir we can create directories
+useradd we can add the users
+userdd prakash
+passwd prakash *****
+cat > we can see the content of file
+cat >> we can add the contet of file
+vi edit and add the content of file
+yum insatall  we can install the software
+yum remove we can remove the pacakages
+yum comprassed
+yum update we can update the pacakages
+cat /etc/passwd  we can see the users
+cat /etc/ssh/sshd/config  we can add the passwd authentication no to yes
+ping peering the conncetions
+usermod we can modify the userinfo
+gzip we can compress the file
+unzip we revert back
+tar -cvf dirl  we can archive the files or dir
+contab -l jobs list our system
+kill we can pross the kill state
+fg run the progam in the foreground
+bg run the service in the background
+top list top 20 process which are the consuming more cpu
+service httpd status
+service httpd status
+init 6 and reboot we can both commands are same 
+wget wget command is used to download pacakages
+ifconfig this command is used to identify the IP adderss
+ssh port 22
+cat /proc/meminfo  memory info
+cat /proc/cpuinfo
+chmod this command is used to files permissions
+chown - this cammand is the change or transfer the ownership
+free  it showing mem info
+history this command is showing of history
+cp this command is copying of fils
+find find a files 
+grep this cammand is search for the pattern in a file
+diff diff b/w 2 files
+sed search and replace
+git add add the file
+
